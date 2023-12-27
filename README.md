@@ -1,0 +1,2 @@
+- Hi, I’m @AceParody
+- I’m currently learning python and other stuff for LegoMindstorms
